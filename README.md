@@ -10,7 +10,7 @@
   <p align="center">
     A full guide based on Microsoft Azure Virtual Private Server for setting up OGP panel and agent. Best for hosting SAMP Servers, CS etc.
     <br />
-    <a href="https://azure.microsoft.com"><strong>Microsoft Azure Free Student Starter Kit »</strong></a>
+    <a href="https://azure.microsoft.com/en-us/free/students/"><strong>Microsoft Azure Free Student Starter Kit »</strong></a>
     <br />
     <br />
   </p>
