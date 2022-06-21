@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CarlR0001/OpenGamePanelSetup">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Open Game Panel Setup</h3>
