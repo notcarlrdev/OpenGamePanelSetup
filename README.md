@@ -125,7 +125,7 @@ EXIT;
 # Adding Obsidian Theme
 * Locate any temporary folder
 ```bash
-cd /etc/tmp
+cd /tmp
 ```
 
 * Download obsidian theme
