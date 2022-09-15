@@ -119,6 +119,12 @@ FLUSH PRIVILEGES;
 
 #exit mariadb
 EXIT;
+
+# reinstall mysql
+sudo mysql_secure_installation
+
+# restart the server
+sudo reboot
 ```
 
 
@@ -140,13 +146,9 @@ unzip master.zip
 
 * Locate the theme folder
 ```bash
-cd /Obsidian-master/themes
+cd Obsidian-master/themes && cp -R Obsidian /var/www/html/themes
 ```
 
-* Transfer the Obsidian theme to the panel themes directory
-```bash
-cp -R Obsidian /var/www/html/themes
-```
 * Then go to your panel go to Administration -> Theme settings -> Pick Obsidian.
 
 # Adding recaptcha for logging in and panel registration
