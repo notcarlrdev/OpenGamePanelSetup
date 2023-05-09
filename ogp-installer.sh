@@ -52,12 +52,13 @@ case $choice in
     echo "Installing OGP Panel..."
     update_system
     install_panel
-    echo "[OGP INSTALLER] OGP Panel Installation Complete
+    echo "[OGP INSTALLER] OGP Panel Installation Complete"
     ;;
   2)
     echo "Installing OGP Agent..."
     update_system
     install_agent
+    echo "[OGP INSTALLER] OGP Agent Installation Complete!"
     ;;
    3)
     echo "Installing Obsidian Theme..."
